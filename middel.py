@@ -10,3 +10,4 @@ elif b<a and b>c or b>a and b<c:
     print(f" the {b} is the middel number ")
 else :
     print(f" the {c} is the middel number ")
+print(" lets go")
